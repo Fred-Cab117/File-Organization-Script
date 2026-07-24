@@ -1,3 +1,4 @@
+#!/bin/bash
 echo -n "Please enter a foldername: "
 read d_name
 echo
